@@ -1,3 +1,5 @@
+# weather-app-webmaster
+
 # Weather App with React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript
 
 A weather application built using React, TypeScript, and Vite. This app fetches weather data from a weather API and displays it in an intuitive and user-friendly interface.
